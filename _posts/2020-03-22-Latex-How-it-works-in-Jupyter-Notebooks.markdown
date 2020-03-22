@@ -11,8 +11,8 @@ Steps
 
  1. Create .tpl file
  
- `import in cmd using --template=yourtemplate.tpl
- jupyter nbconvert --to python 'example.ipynb' --stdout --template=simplepython.tpl`
+ import in cmd using --template=yourtemplate.tpl
+ `jupyter nbconvert --to python 'example.ipynb' --stdout --template=simplepython.tpl`
 
  2. Export your template from your ipynb file using:
  
