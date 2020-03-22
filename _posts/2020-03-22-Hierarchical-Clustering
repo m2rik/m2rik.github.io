@@ -18,6 +18,7 @@ plt.xlabel('Customers')
 plt.ylabel('Euclidean distances')
 plt.show()`
 
+![hc plots](https://github.com/m2rik/m2rik.github.io/blob/master/images/hc1.png)
 `# Fitting Hierarchical Clustering to the dataset
 from sklearn.cluster import AgglomerativeClustering
 hc = AgglomerativeClustering(n_clusters = 5, affinity = 'euclidean', linkage = 'ward')
@@ -34,3 +35,4 @@ plt.xlabel('Annual Income (k$)')
 plt.ylabel('Spending Score (1-100)')
 plt.legend()
 plt.show()`
+![hc plots](https://github.com/m2rik/m2rik.github.io/blob/master/images/hc.png)
