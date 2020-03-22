@@ -36,5 +36,5 @@ Format: ![ex 2.13](path/ex2.png)
 
 #### 1.8 To create an internal clickable link in the same notebook:
 Steps
-1. Create link [To some Internal Section](#section_id)
-2. Create destination <a id='section_id'></a>
+1. Create link `[To some Internal Section](#section_id)`
+2. Create destination `<a id='section_id'></a>`
