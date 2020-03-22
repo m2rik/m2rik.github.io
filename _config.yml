@@ -16,6 +16,10 @@ github_username:  m2rik
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
+
+author:
+  Linkedin: linkedin.com/in/riteshswt
+
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
