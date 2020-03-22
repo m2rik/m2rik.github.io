@@ -9,8 +9,8 @@
 title: Ritesh Sawant
 email: ritesh.swt@rutgers.edu
 description: My Data Science Portfolio
-baseurl: "/m2rik.github.io" # the subpath of your site, e.g. /blog
-url: "m2rik.github.io" # the base hostname & protocol for your site
+baseurl: "m2rik.github.io/" # the subpath of your site, e.g. /blog
+url: "m2rik.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  m2rik
 paginate: 5
