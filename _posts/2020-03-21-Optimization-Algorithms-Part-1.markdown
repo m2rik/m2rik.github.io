@@ -5,7 +5,7 @@ Goal is to visualize the parameters of Gradients and level sets in a contour plo
 
 There are n=10 million data points. The purpose is to apply linear regression to predict y, i.e. we want to find parameters `x = [x1, x2, x3].T` that minimizes the least square error. Comparing the Gradient Descent with the Normal Equation -  `x∗ = ((ATA)^-1 AT)` to find the parameters.
 
-![GD plots](https://github.com/m2rik/m2rik.github.io/Gradient%20Vis.png)
+![GD plots](https://github.com/m2rik/m2rik.github.io/images/GradientVis.png)
 
 
 
