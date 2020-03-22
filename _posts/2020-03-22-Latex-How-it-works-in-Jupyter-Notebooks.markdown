@@ -30,3 +30,18 @@ Steps
 Steps
   1. Create link To some Internal Section
   2. Create destination `
+  
+`\begin{title}
+   \begin{center}
+      \Large\textbf{Your Text}\\
+      \large\textit{Your Text 2}
+   \end{center}
+\end{title}`
+
+#### Insert Images in Jupyter
+Format: ![ex 2.13](path/ex2.png)
+
+#### To create an internal clickable link in the same notebook:
+Steps
+1. Create link [To some Internal Section](#section_id)
+2. Create destination <a id='section_id'></a>
