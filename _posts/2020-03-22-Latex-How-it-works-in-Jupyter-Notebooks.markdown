@@ -32,7 +32,7 @@ Steps
 \end{title}`
 
 #### 1.7 Insert Images in Jupyter
-Format: ![ex 2.13](path/ex2.png)
+Format: `![ex 2.13](path/ex2.png)`
 
 #### 1.8 To create an internal clickable link in the same notebook:
 Steps
